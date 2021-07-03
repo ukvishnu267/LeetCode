@@ -1,0 +1,4 @@
+module TestSample {
+	requires javatuples;
+	
+}
